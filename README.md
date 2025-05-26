@@ -153,3 +153,7 @@ Dockerfile  README.md  gunicorn.conf.py  gunicorn_pid.txt  main.py  main.pyc  re
 $ curl http://localhost:8080
 Hello World
 ```
+
+
+AWS_ACCESS_KEY_ID=312ABXZYTL54
+AWS_SECRET_ACCESS_KEY=AVZASAJKLNSAKN153A
