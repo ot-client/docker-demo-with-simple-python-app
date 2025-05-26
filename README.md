@@ -155,8 +155,21 @@ Hello World
 ```
 
 
-AWS_ACCESS_KEY_ID=312ABXZYTL54
-AWS_SECRET_ACCESS_KEY=AVZASAJKLNSAKN153A
-auth=AXAXAKNSAK$%6FL
-password=DevOps@123
-token=asnaksank1232
+# Dummy API Key (GitLeaks Test)
+aws_secret_access_key = "AKIAIOSFODNN7EXAMPLE"
+
+# Dummy Password in Env Format
+DB_PASSWORD=SuperSecret123!
+
+# Dummy Private Key
+-----BEGIN RSA PRIVATE KEY-----
+MIIEogIBAAKCAQEA7X3+zYgxA0fA19yK8RT4Z7wGdpO1A4EJ1vVvZqRlDlB9NsEx
+...
+-----END RSA PRIVATE KEY-----
+
+# Dummy Slack Token
+xoxb-123456789012-1234567890123-ABCDEFGHIJKLMNO
+
+# Dummy JWT Token
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c
+
